@@ -1,6 +1,6 @@
 # 📱 Smartphone Addiction Classification
 
-This repository contains a Machine Learning solution for the [Kaggle Playground Series (s6e8)](https://www.kaggle.com/competitions/playground-series-s6e8) competition. The goal is to predict smartphone addiction based on user activity, screen time, and demographic features.
+This repository contains a Machine Learning solution for the [Kaggle competition](https://www.kaggle.com/competitions/playground-series-s6e8). The goal is to predict smartphone addiction based on user activity, screen time, and demographic features.
 
 🔗 **Links:**
 - [Kaggle Notebook (EN)](https://www.kaggle.com/code/nikitasem/smartphone-addiction-classification)
